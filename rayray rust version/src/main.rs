@@ -366,3 +366,21 @@ fn main() {
         scena += 0.5;
     }
 }
+
+
+
+
+
+
+# End of code
+# ---------------------------------------------
+# Copyright (c) 2024 Mario Pisano
+#
+# This program is distributed under the EUPL, Version 1.2 or – as soon as 
+# approved by the European Commission – subsequent versions of the EUPL 
+# (the "License");
+# You may use, modify, and/or redistribute the program under the terms of the 
+# License.
+# 
+# You can find a copy of the License at:
+# https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12
